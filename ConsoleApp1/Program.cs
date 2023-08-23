@@ -10,7 +10,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            for(i=1;i<=100;i++)
+            {
             console.writeline("hello everyone");
+            }
         }
     }
 }
